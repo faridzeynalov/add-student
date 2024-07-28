@@ -1,0 +1,26 @@
+.tableTop {
+  margin-top: 10rem;
+  margin-bottom: 3rem;
+  form {
+    input {
+      height: 4rem;
+      padding-inline: 2rem;
+      border-radius: 0.4rem;
+      border: none;
+    }
+  }
+}
+table {
+  width: 100%;
+  margin-bottom: 10rem;
+}
+table,
+tr,
+td,
+th {
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-collapse: collapse;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1.8rem;
+}

@@ -1,0 +1,16 @@
+.add {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    width: 60%;
+    margin: 0 auto;
+    input {
+        height: 4rem;
+        padding-inline: 2rem;
+        border-radius: 0.4rem;
+        border: none;
+    }
+    button {
+        height: 4rem;
+    }
+}
